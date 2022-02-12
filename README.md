@@ -53,7 +53,7 @@ The [project board](https://github.com/users/andrewvallejo/projects/2/views/1?vi
 ---
 ## Installation
 
-First, clone the repo and update the dependency with your package manager preference (*yarn, pnpm, etc. *)
+First, clone the repo and update the dependency with your package manager preference (*yarn, pnpm, etc.*)
 
 ```jsx
 git clone
